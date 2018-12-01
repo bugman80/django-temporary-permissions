@@ -1,0 +1,12 @@
+include README.rst
+include CHANGES
+include MANIFEST.in
+include setup.py
+
+include conftest.py
+
+include django_temporary_permissions/requirements/*
+
+recursive-include docs/source *
+recursive-include django_temporary_permissions *
+recursive-exclude django_temporary_permissions *.pyc

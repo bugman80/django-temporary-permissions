@@ -1,0 +1,7 @@
+================================
+Django Temporary Permissions
+================================
+
+Manages users and groups association for managing permissions.
+
+This library enable a set of permissions (through a Group of permissions) for a limited period defined by a start_date/end_date time range

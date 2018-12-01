@@ -1,0 +1,15 @@
+coverage
+django-dynamic-fixture
+django-pytest
+flake8
+pep8
+pylint
+pygments
+pytest
+pytest-django
+pytest-cache
+pytest-cov
+pytest-echo
+sphinx
+psycopg2
+tox
